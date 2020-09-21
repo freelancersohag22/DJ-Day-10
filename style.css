@@ -1,0 +1,76 @@
+*{}
+h1{
+    background:red;
+    color:white;
+    text-align:center;
+}
+h2{
+    background:green;
+    color:white;
+    text-align:center;
+}
+h3{
+    background:black;
+    color:white;
+    text-align:center;
+}
+h4{
+    background:#444;
+    color:white;
+    text-align:center;
+}
+h5{
+    background:#ddd;
+    color:white;
+    text-align:center;
+}
+h6{
+    background:#999;
+    color:white;
+    text-align:center;
+}
+b{
+    background:orange;
+    color:white;
+    text-align:center;
+}
+i{
+    background:tomato;
+    color:white;
+    text-align:center;
+}
+p{
+    background:#111;
+    color:white;
+    text-align:center;
+}
+small{
+    background:#010101;
+    color:white;
+    text-align:center;
+}
+big{
+    background:red;
+    color:white;
+    text-align:center;
+}
+strong{
+    background:green;
+    color:white;
+    text-align:center;
+}
+a{
+    background:orange;
+    color:white;
+    text-align:center;
+}
+span{
+    background:#ddd;
+    color:white;
+    text-align:center;
+}
+u{
+    background:#efefef;
+    color:black;
+    text-align:center;
+}
